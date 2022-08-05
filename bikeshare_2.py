@@ -198,7 +198,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df, city)
-
+        # Display 5 rows of raw data each time if users want
         for i in range(0, len(df), 5):
             print('Would you like to see more raw data? Please type \'yes\' or \'no\'.')
             if input().lower() == 'yes':
