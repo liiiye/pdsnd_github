@@ -7,7 +7,8 @@
 Bikeshare
 
 ### Description
-My project can interact with users and provide them with bikeshare information according to their choice of city and time.
+My project can interact with users and provide them with bikeshare information according to their choice of city and time. To use this program, users need to install python.
+
 
 ### Files used
 chicago.csv
